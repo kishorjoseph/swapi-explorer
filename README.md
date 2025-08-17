@@ -19,7 +19,7 @@ Task - Create a swapi explorer by pulling data from https://swapi.api/
 **UX**
 ****************
 
-![Application Screenshot](public/assets/explorer.png "Swappi explorer")
+![Application Screenshot](src/assets/swapi.png "Swappi explorer")
 
 ****************************************************************************************
 
